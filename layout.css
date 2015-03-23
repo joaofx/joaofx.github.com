@@ -58,7 +58,7 @@ a:hover {
 	margin-bottom: 40px;
 }
 
-#links ul {
+#links ul, #items ul {
 	display: block !important;
 	list-style: none;
 }
@@ -68,4 +68,8 @@ a:hover {
 	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	float: left;
+}
+
+#items {
+	margin: 20px;
 }
